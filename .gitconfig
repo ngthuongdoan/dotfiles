@@ -181,3 +181,13 @@
 [init]
 
 	defaultBranch = main
+[user]
+	name = Eddie
+	email = thuong.doanngoc@hellohealthgroup.com
+	id = 47
+	token = EFMBwTXnPa2RgvRzAJon
+[push]
+	autoSetupRemote = true
+[http]
+	sslVerify = false
+
